@@ -1,4 +1,8 @@
-### Hi there 👋
+### Superredstone
+Hi! my name is Patrick
+
+I love Golang and Python
+
 
 <!--
 **Superredstone/Superredstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
